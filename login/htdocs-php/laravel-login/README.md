@@ -3,7 +3,7 @@
 <p align="center"><a href="http://www.trymyride.co/" target="_blank"><img src="resources/views/img/logo.png" width="400"></a></p>
 
 
-## Prueba - Try My Ride 
+# Prueba - Try My Ride 
 
 Esta es una breve descripción de como se ha construido esta página,  que permite registrarse, ingresar y entrar a la página que permite actualizar el perfil del usuario ingresado. 
 
