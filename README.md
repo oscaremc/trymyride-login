@@ -2,7 +2,7 @@
 Entrega prueba try my ride
 
 
-<p align="center"><a href="http://www.trymyride.co/" target="_blank"><img src="login/resources/views/img/logo.png" width="400"></a></p>
+<p align="center"><a href="http://www.trymyride.co/" target="_blank"><img src="login/react-native-login-firebase/resources/views/img/logo.png" width="400"></a></p>
 
 # Prueba - Try My Ride 
 
